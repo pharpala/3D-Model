@@ -11,7 +11,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #111;
+  background-color: #000000e7;
 }
 
 ul {
@@ -33,7 +33,7 @@ li{
     border-radius: 50%;
     transform-origin: 50% 50%;
     transform: rotateX(calc(var(--i) * 5deg)) translateY(-200px);
-    color:aliceblue;
+    color:rgb(172, 198, 221);
 }
 
 @keyframes move {
