@@ -33,7 +33,7 @@ li{
     border-radius: 50%;
     transform-origin: 50% 50%;
     transform: rotateX(calc(var(--i) * 5deg)) translateY(-200px);
-    color:rgb(172, 198, 221);
+    color:aliceblue;
 }
 
 @keyframes move {
