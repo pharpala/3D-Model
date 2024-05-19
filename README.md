@@ -1,4 +1,4 @@
-# Counter Program
+# 3D-Model
 
 Simple 3d model effect to practice CSS principles.
 
