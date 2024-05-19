@@ -13,4 +13,4 @@ You can view the project by clicking on the following link: [Deployment with Git
 
 ## Usage
 
-To use the counter program, click the above link in "Deployment with Github Pages" and enjoy the magic!
+To check out the counter program, click the above link in "Deployment with Github Pages" and enjoy the magic!
